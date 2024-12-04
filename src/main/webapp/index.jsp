@@ -46,8 +46,8 @@
             <button id="search-button" class="search-button">Search</button>
         </div>
         <div class="button">
-            <button class="signup-button"><a href="registration.html">Signup</a></button>
-            <button class="login-button"><a href="login.html">Login</a></button>
+            <button class="signup-button"><a href="registration.jsp">Signup</a></button>
+            <button class="login-button"><a href="login.jsp">Login</a></button>
         </div>
     </div>
     
